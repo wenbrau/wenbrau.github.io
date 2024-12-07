@@ -6,9 +6,7 @@ permalink: /projects/
 
 ### Master's theses
 
-- How Multidimensional is Welfare? A Sparse Principal Components Analysis
-
-  _Master's in Data Science thesis and Young Researcher Working Paper Series, UdeSA_. Advisor: Walter Sosa Escudero. 
+- How Multidimensional is Welfare? A Sparse Principal Components Analysis.  _Master's in Data Science thesis and Young Researcher Working Paper Series, UdeSA_. Advisor: Walter Sosa Escudero. 
 
   📄   [Spanish version here.](https://ideas.repec.org/p/sad/ypaper/5.html) 
 
@@ -16,9 +14,7 @@ permalink: /projects/
 
 
 
-- Immigration in Films: a Machine Learning Analysis from subtitles
-
-_Master's in Data Science thesis_. Advisor: Marcela Svarc. 
+- Immigration in Films: a Machine Learning Analysis from subtitles. _Master's in Data Science thesis_. Advisor: Marcela Svarc. 
 
   📄  [Spanish version](https://repositorio.udesa.edu.ar/items/71f85ce1-b287-4618-8470-05c5bdaafa1f). 
 
