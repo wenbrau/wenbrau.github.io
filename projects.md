@@ -16,9 +16,9 @@ permalink: /projects/
 
 - Immigration in Films: a Machine Learning Analysis from subtitles. _Master's in Data Science thesis_. Advisor: Marcela Svarc. 
 
-  📄  [Spanish version here.](https://repositorio.udesa.edu.ar/items/71f85ce1-b287-4618-8470-05c5bdaafa1f). 
+  📄  [Spanish version here.](https://repositorio.udesa.edu.ar/items/71f85ce1-b287-4618-8470-05c5bdaafa1f) 
 
-  📄  [A few sections in English here.](/assets/pdf/BRAU_thesis_mcd-subset.pdf).
+  📄  [A few sections in English here.](/assets/pdf/BRAU_thesis_mcd-subset.pdf)
 
 
 
