@@ -10,15 +10,15 @@ permalink: /projects/
 
   📄   [Spanish version here.](https://ideas.repec.org/p/sad/ypaper/5.html) 
 
-  📄   [Full English version here](/assets/pdf/BRAU_thesis_mae.pdf)
+  📄   [Full English version here.](/assets/pdf/BRAU_thesis_mae.pdf)
 
 
 
 - Immigration in Films: a Machine Learning Analysis from subtitles. _Master's in Data Science thesis_. Advisor: Marcela Svarc. 
 
-  📄  [Spanish version](https://repositorio.udesa.edu.ar/items/71f85ce1-b287-4618-8470-05c5bdaafa1f). 
+  📄  [Spanish version here.](https://repositorio.udesa.edu.ar/items/71f85ce1-b287-4618-8470-05c5bdaafa1f). 
 
-  📄  [A few sections in English here](/assets/pdf/BRAU_thesis_mcd-subset.pdf).
+  📄  [A few sections in English here.](/assets/pdf/BRAU_thesis_mcd-subset.pdf).
 
 
 
@@ -46,11 +46,11 @@ Mobility (2024). Washington D.C.: World Bank Group.](https://documents.worldbank
 
 ### Miscellaneous
 
-- **NYC taxi tipping behaviour**. With María Prieto Alemandi we realized that people tip more during Snowstorms, and on Christmas. 
+- **NYC taxi tipping behaviour**. With María Prieto Alemandi we realized that people are more generous during snowstorms, and Christmas! 
 
 <img src="/assets/img/snow.png" alt="snow" width="600">
 
-- **Happy endings**. With María Prieto Alemandi and Natalia Fonzo, we were curious on the narrative arcs of animation films with different topics.
+- **Happy endings**. With María Prieto Alemandi and Natalia Fonzo, we were curious about the narrative arcs of animation films from different topics.
 
 
 <img src="/assets/img/emotions_movies.png" alt="emotions" width="600">
