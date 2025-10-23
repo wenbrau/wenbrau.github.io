@@ -4,6 +4,10 @@ title: "projects & publications"
 permalink: /projects/
 ---
 
+### Development Impact
+At the World Bank’s Development Impact group, I am part of transportation and health projects. I have built and analyzed large-scale data systems (transport smartcards, health claims, surveys) and combined econometrics, impact evaluation, and machine learning to study how transport subsidies affect mobility and health. I also contribute to recent initiatives applying machine learning and AI to improve health outcomes in developing countries.
+
+
 ### Master's theses
 
 - How Multidimensional is Welfare? A Sparse Principal Components Analysis.  _Master's in Data Science thesis and Young Researcher Working Paper Series, UdeSA_. Advisor: Walter Sosa Escudero. 
