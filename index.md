@@ -13,7 +13,6 @@ Working in research at [Development Impact (ex DIME) - The World Bank](https://w
 
 
 
-### Find me in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/wendy-brau)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/wenbrau)
