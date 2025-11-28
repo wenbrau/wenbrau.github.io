@@ -10,7 +10,7 @@ At the World Bank’s Development Impact group, I am part of transportation and 
 
 ### Master's theses
 
-- How Multidimensional is Welfare? A Sparse Principal Components Analysis.  _Master's in Data Science thesis and Young Researcher Working Paper Series, UdeSA_. Advisor: Walter Sosa Escudero. 
+- How Multidimensional is Welfare? A Sparse Principal Components Analysis.  _Master's in Economics thesis and Young Researcher Working Paper Series, UdeSA_. Advisor: Walter Sosa Escudero. 
 
   📄   [Spanish version here.](https://ideas.repec.org/p/sad/ypaper/5.html) 
 
