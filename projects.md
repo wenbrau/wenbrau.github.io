@@ -5,8 +5,7 @@ permalink: /projects/
 ---
 
 ### Development Impact
-At the World Bank’s Development Impact group, I am part of transportation and health projects. I have built and analyzed large-scale data systems (transport smartcards, health claims, surveys) and combined econometrics, impact evaluation, and machine learning to study how transport subsidies affect mobility and health. I also contribute to recent initiatives to apply ML and AI to address development challenges.
-
+At the World Bank’s Development Impact group, I am part of transportation and health projects. I have built and analyzed large-scale data systems (transport smartcards, health claims, surveys) and combined econometrics, impact evaluation, and machine learning to study how transport subsidies affect mobility and health. I also contribute to recent initiatives to apply ML and AI to address development challenges (AI-based risk score mammogram reading prioritization, enhancing support to frontline healthcare workers, wastewater surveillance systems).
 
 ### Master's theses
 
