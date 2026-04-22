@@ -9,8 +9,7 @@ Hi! I am Wendy.
 
 Economist and Data Scientist.
 
-Working in research at [Development Impact (ex DIME) - The World Bank](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation). Teaching at [HumAI](https://humai.com.ar/).
-
+Working in research at [Development Impact (ex DIME) - The World Bank](https://www.worldbank.org/en/about/unit/unit-dec/impactevaluation). 
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/wendy-brau)
